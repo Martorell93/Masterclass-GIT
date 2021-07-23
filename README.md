@@ -27,3 +27,5 @@ Si me lastimé el corazón
 =======
 9 Hoy
 >>>>>>> features/linea26
+=======
+>>>>>>> feature/linea7
