@@ -23,49 +23,14 @@ Encontro el remedio
 
 
 Si me lastimé el corazón
+
 9 Hoy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Vale más despertar que soñar
+En este juego
+Hoy que es tiempo de sanar
+Las heridas del tiempo
 
 
 Esta es mi revolución
 Llenar de amor mi sangre y si reviento
+
