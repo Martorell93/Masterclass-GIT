@@ -23,3 +23,49 @@ Encontro el remedio
 
 
 Si me lastimé el corazón
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Llenar de amor mi sangre y si reviento
