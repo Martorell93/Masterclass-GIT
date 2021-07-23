@@ -35,6 +35,9 @@ Llenar de amor mi sangre y si reviento
 Que se esparza en el viento
 El amor que llevo dentro
 Esa es mi revolución
+Llenar de amor mi sangre y si reviento
+Que se esparza en el viento
+El amor que llevo dentro
 
 Esta es mi revolución
 Llenar de amor mi sangre y si reviento
