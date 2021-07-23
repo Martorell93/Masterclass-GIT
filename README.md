@@ -67,8 +67,5 @@ Si me lastimé el corazón
 
 
 
-
-
-
-
+Esta es mi revolución
 Llenar de amor mi sangre y si reviento
