@@ -34,5 +34,9 @@ El amor que llevo dentro
 Esta es mi revolución
 Llenar de amor mi sangre y si reviento
 
+<<<<<<< HEAD
+=======
+No quiero lo que me hace mal
+>>>>>>> feature/linea50
 Hoy que es tiempo de sanar
 Lo oscuro del juego
