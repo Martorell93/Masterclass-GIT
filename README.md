@@ -29,6 +29,8 @@ Vale más despertar que soñar
 En este juego
 Hoy que es tiempo de sanar
 Las heridas del tiempo
+Hoy que es tiempo de ser luz
+Esa es mi revolución
 
 
 Esta es mi revolución
