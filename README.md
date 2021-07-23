@@ -10,17 +10,9 @@ Te pido perdón
 4 hoy
 No quiero lo que me hace mal
 
-
-
-
-
-
-
-
 7.Hoy
 El veneno
 Encontro el remedio
-
 
 Si me lastimé el corazón
 
@@ -42,15 +34,5 @@ El amor que llevo dentro
 Esta es mi revolución
 Llenar de amor mi sangre y si reviento
 
-
-
-
-
-
-
-<<<<<<< HEAD
-
 Hoy que es tiempo de sanar
-=======
 Lo oscuro del juego
->>>>>>> 3bcffd67c0bdf982875d936ddd4930b173a6422a
