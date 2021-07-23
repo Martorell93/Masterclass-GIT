@@ -1,0 +1,20 @@
+{
+  "name": "masterclass-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martorell93/Masterclass-GIT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martorell93/Masterclass-GIT/issues"
+  },
+  "homepage": "https://github.com/Martorell93/Masterclass-GIT#readme"
+}
