@@ -48,5 +48,9 @@ Llenar de amor mi sangre y si reviento
 
 
 
+<<<<<<< HEAD
 
 Hoy que es tiempo de sanar
+=======
+Lo oscuro del juego
+>>>>>>> 3bcffd67c0bdf982875d936ddd4930b173a6422a
