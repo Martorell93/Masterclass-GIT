@@ -12,5 +12,3 @@ Es silencio
 
 
 7.Hoy
-El veneno
-Encontro el remedio
