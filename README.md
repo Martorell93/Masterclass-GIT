@@ -22,4 +22,8 @@ El veneno
 Encontro el remedio
 
 
+<<<<<<< HEAD
 Si me lastimé el corazón
+=======
+9 Hoy
+>>>>>>> features/linea26
