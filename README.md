@@ -15,7 +15,7 @@ Las heridas del tiempo
 Hoy que pronto será ayer
 Regálate el momento
 6 Hoy
-
+Pude ver quién soy
 Conocerme más
 7.Hoy
 El veneno
