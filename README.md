@@ -12,7 +12,7 @@ No quiero lo que me hace mal
 Lo oscuro del juego
 5 Hoy que es tiempo de sanar
 Las heridas del tiempo
-
+Hoy que pronto será ayer
 
 6 Hoy
 
