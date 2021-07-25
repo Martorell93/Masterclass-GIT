@@ -9,7 +9,7 @@ Te pido perdón
 Si te lastimé el corazón
 4 hoy
 No quiero lo que me hace mal
-
+Lo oscuro del juego
 7.Hoy
 El veneno
 Encontro el remedio
