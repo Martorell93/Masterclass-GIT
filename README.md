@@ -11,12 +11,18 @@ Si te lastimé el corazón
 No quiero lo que me hace mal
 Lo oscuro del juego
 5 Hoy que es tiempo de sanar
+
+
+
+6 Hoy
+
+Conocerme más
 7.Hoy
 El veneno
 Encontro el remedio
-6 Hoy
+
+
 Si me lastimé el corazón
-Conocerme más
 9 Hoy
 Vale más despertar que soñar
 En este juego
@@ -31,38 +37,31 @@ Esa es mi revolución
 Llenar de amor mi sangre y si reviento
 Que se esparza en el viento
 El amor que llevo dentro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Que se esparza en el viento
+
 Esta es mi revolución
 Llenar de amor mi sangre y si reviento
-
-Llenar de amor mi sangre y si reviento
 Que se esparza en el viento
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Llenar de amor mi sangre y si reviento
 
 
 
