@@ -4,9 +4,9 @@ Es quererme más
 2 Hoy
 El grito que doy
 Es silencio
-
+3 Hoy
 Te pido perdón
-
+Si te lastimé el corazón
 4 hoy
 No quiero lo que me hace mal
 
